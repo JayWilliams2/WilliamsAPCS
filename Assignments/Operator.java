@@ -40,7 +40,6 @@ class Operators {
 		System.out.println(moduloNextAge);
 		double bitcoinsOwned = .000001;
 		double bcsCoinsOwned = 2;
-
 		double bitcoinValue = 10000;
 		double bcsCoinValue = 0;
 
